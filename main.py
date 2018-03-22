@@ -1,6 +1,9 @@
+# media module consist of Movie class
+# web_script module consist of code to render website 
 import media
 import web_script
 
+# Create instances of Class Movie
 avatar = media.Movie("Avatar",
                     "A marine on an alien planet",
                     "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",

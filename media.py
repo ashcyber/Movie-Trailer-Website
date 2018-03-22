@@ -1,6 +1,8 @@
 import webbrowser
 
+# Here we declare the Movie class
 class Movie():
+    # init function defines movies class variables
     def __init__(self, movie_title, movie_storyline, poster_image, trailer_youtube):
         self.title = movie_title
         self.storyline = movie_storyline
@@ -8,6 +10,6 @@ class Movie():
         self.trailer_youtube_url = trailer_youtube
 
 
-
+    # show trailers function open webbrowser with youtube trailer link 
     def show_trailer(self):
         webbrowser.open(self.trailer)

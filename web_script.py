@@ -11,7 +11,7 @@ main_page_head = '''
     <meta charset="utf-8">
     <title>Movie Trailer Website</title>
 
-    <!-- Bootstrap 3 -->
+    <!-- Bootstrap 3, JS Scripts & Custom Styling Files -->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.1.0/css/bootstrap-theme.min.css">
     <script src="http://code.jquery.com/jquery-1.10.1.min.js"></script>
