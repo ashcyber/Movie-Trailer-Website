@@ -8,26 +8,26 @@ avatar = media.Movie("Avatar",
                      '''A marine on an alien
                      planet''',
                      "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",   # noqa
-                     "https://www.youtube.com/watch?v=5PSNL1qE6VY")
+                     "https://www.youtube.com/watch?v=5PSNL1qE6VY")  # noqa
 
 logan = media.Movie("Logan",
                     '''American superhero film, produced by Marvel
                     Entertainment, TSG Entertainment and
                     The Donners' Company''',
                     "https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg",  # noqa
-                    "https://www.youtube.com/watch?v=Div0iP65aZo")
+                    "https://www.youtube.com/watch?v=Div0iP65aZo")  # noqa
 
 infinity_war = media.Movie("Infinity War",
                            "Marvel's Studios Avengers: Infinity War",
                            "https://upload.wikimedia.org/wikipedia/en/4/4d/Avengers_Infinity_War_poster.jpg",  # noqa
-                           "https://www.youtube.com/watch?v=QwievZ1Tx-8")
+                           "https://www.youtube.com/watch?v=QwievZ1Tx-8")  # noqa
 
 pacific_rim = media.Movie("Pacific Rim Uprising",
                           '''American science-fiction action film directed by
                           Steven S. DeKnight (in his feature-film
                           directorial debut) ''',
                           "https://upload.wikimedia.org/wikipedia/en/2/2e/Pacificrim2-poster.jpg",  # noqa
-                          "https://www.youtube.com/watch?v=_EhiLLOhVis")
+                          "https://www.youtube.com/watch?v=_EhiLLOhVis")  # noqa
 
 sherlock_gnomes = media.Movie("Sherlock Gnomes",
                               '''3D computer-animated comedy film
@@ -56,7 +56,7 @@ theory_of_everything = media.Movie("Theory of Everything",
                                    learns that he suffers from motor neurone
                                    disease and has around two years to live''',
                                    "http://t0.gstatic.com/images?q=tbn:ANd9GcSgW7hpezP5xtikV7WqwwqFm37kqMeJeFEGpYcO30CDcchn9g8m",  # noqa
-                                   "https://www.youtube.com/watch?v=Salz7uGp72c")  # noqa \
+                                   "https://www.youtube.com/watch?v=Salz7uGp72c")  # noqa
 
 
 man_who_knew_infi = media.Movie("Man who knew infinity",
