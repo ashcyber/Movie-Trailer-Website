@@ -1,4 +1,4 @@
-# Modify Starter code module - fresh_tomato.py - Udacity Starter Code  
+# Modify Starter code module - fresh_tomato.py - Udacity Starter Code
 
 import webbrowser
 import os
@@ -22,7 +22,7 @@ main_page_head = '''
     <link href="https://fonts.googleapis.com/css?family=Oswald" rel="stylesheet">
     <link rel="stylesheet" href="./css/custom.css">
 </head>
-'''
+'''  # noqa
 
 # Main body content for the page
 main_page_content = '''
@@ -53,7 +53,7 @@ main_page_content = '''
     </div>
   </body>
 </html>
-'''
+'''  # noqa
 
 
 # A single movie entry html template
@@ -62,7 +62,7 @@ movie_tile_content = '''
     <img src="{poster_image_url}" width="220" height="342">
     <h2>{movie_title}</h2>
 </div>
-'''
+'''  # noqa
 
 
 def create_movie_tiles_content(movies):
