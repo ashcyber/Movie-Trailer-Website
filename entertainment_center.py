@@ -5,12 +5,15 @@ import web_script
 
 # Create instances of Class Movie
 avatar = media.Movie("Avatar",
-                     "A marine on an alien planet",
+                     '''A marine on an alien
+                     planet''',
                      "https://upload.wikimedia.org/wikipedia/en/b/b0/Avatar-Teaser-Poster.jpg",   # noqa
                      "https://www.youtube.com/watch?v=5PSNL1qE6VY")
 
 logan = media.Movie("Logan",
-                    "American superhero film, produced by Marvel Entertainment, TSG Entertainment and The Donners' Company",  # noqa
+                    '''American superhero film, produced by Marvel
+                    Entertainment, TSG Entertainment and
+                    The Donners' Company''',
                     "https://upload.wikimedia.org/wikipedia/en/3/37/Logan_2017_poster.jpg",  # noqa
                     "https://www.youtube.com/watch?v=Div0iP65aZo")
 
